@@ -1,10 +1,30 @@
 .displayboxjs-component {
 
   display: inline-block;
-  border: 1px dashed #f00;
-  margin: 15px;
+  border: 1px solid lightgray;
+  //margin: 15px;
   padding: 10px;
   background-color: #949494;
   border-radius: 10px;
-  max-width: 200px;
+  max-width: 380px;
+  min-width: 300px;
+}
+
+.display-box-text.h1 {
+  //margin-left: 10px;
+  font-size: 10px
+}
+
+p {
+  padding: 10px;
+  font-size: 1.2em;
+}
+
+h1 {
+  font-size: 2.0em !important;
+}
+
+.box-image {
+  border: 1px solid lightgray;
+
 }
