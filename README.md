@@ -20,6 +20,9 @@ After scaffolding the project I added two components:
 
 I used the generator's component command to create the components which I liked a lot.
 
+I also brought in React-Bootstrap to display the boxes nicely on mobile screens.
+
+
 If you're curious to see how I felt about this generator and Es6 React in general check out my blog post here: http://www.wisdomofjim.com/woj-blog/my-little-react-webpack-project-postmortem
 
 
