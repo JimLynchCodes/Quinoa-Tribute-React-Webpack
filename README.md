@@ -26,4 +26,4 @@ I also brought in React-Bootstrap to display the boxes nicely on mobile screens.
 If you're curious to see how I felt about this generator and Es6 React in general check out my blog post here: http://www.wisdomofjim.com/woj-blog/my-little-react-webpack-project-postmortem
 
 
-I'm always open to feedback so feel free to open issues with comments or suggestions. Thanks! :)
+I'm always open to feedback so feel free to open issues with comments or suggestions. Thanks!  :)
