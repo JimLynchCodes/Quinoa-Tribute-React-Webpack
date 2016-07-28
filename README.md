@@ -10,7 +10,7 @@ This is a project that began from the yeoman generator react-webpack.
 
 
 *Disclaimer: This was my first React project!*
-*(Although I have done a lot of Angular and str8 Jquery front-end development)*
+*(Although I have done a lot of Angular and straight up jQuery front-end development)*
 
 After scaffolding the project I added two components:
 
